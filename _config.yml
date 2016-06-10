@@ -1,14 +1,14 @@
-title:            Balzac
+title:            lanhuafeifei的异想世界
 tagline:          A beautiful theme.
-description:      Describe your website.
+description:      保持住一颗捣腾不安的心以及对知识的渴望与找寻
 canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           lanhuafeifei
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
+  bio:            Life is beautiful.
+  email:          22101627@qq.com
   twitter:        twnsndco
   github:         coletownsend
   instagram:      ctrunsthis
@@ -42,6 +42,7 @@ timezone:    America/New_York
 future:      true
 highlighter: pygments
 markdown:    kramdown
+input:GFM
 
 kramdown:
   auto_ids: true
